@@ -1,2 +1,2 @@
 # Projekty_po
-Dodawanie i odejmowanie na podstawie opcji klas
+ProstyKalkulator - Dodawanie i odejmowanie na podstawie opcji klas
