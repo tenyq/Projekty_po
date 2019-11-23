@@ -2,7 +2,7 @@ import pylab
 
 a = 1
 b = 2
-x = range(-10, 11)  # lista argumentów x
+x = range(-5, 5)  # lista argumentów x
 
 y = []  # lista wartości
 for i in x:
